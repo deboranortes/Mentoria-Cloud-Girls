@@ -2,7 +2,7 @@
 
 
 
-![Capa Mentee](https://github.com/deboranortes/Mentoria-Cloud-Girls/blob/main/logo.png)
+![Capa Mentee](https://github.com/deboranortes/Mentoria-Cloud-Girls/blob/main/capa.jpg)
 
 
 Este repositório faz parte do programa de mentoria da Cloud Girls em parceria com a Alura, onde sou mentorada. Aqui compartilho minha jornada de aprendizado, trilhando tanto hard skills quanto soft skills.
