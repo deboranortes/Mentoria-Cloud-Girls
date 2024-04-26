@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Mentoria+Cloud+Girls&center=true&width=460&height=80&size=38&color=%23DB4277)](https://git.io/typing-svg)
 
 
-
 ![Capa Mentee](https://github.com/deboranortes/Mentoria-Cloud-Girls/blob/main/capa.jpg)
 
 
@@ -43,7 +42,7 @@ Este repositório também contém alguns arquivos de estudos relacionados às tr
 
 Conheça mais sobre a comunidade Cloud Girls e seu impacto na diversidade e inclusão no setor de tecnologia. [![Cloud Girls](https://img.shields.io/badge/Cloud%20Girls-Visit%20Website-e83e8c)](https://cloudgirls.com.br/)
 
-Explore a variedade de cursos oferecidos pela Alura para aprimorar suas habilidades técnicas. [![Alura](https://img.shields.io/badge/Alura-Visit%20Website-1110b7)](https://www.alura.com.br/)
+Explore a variedade de cursos oferecidos pela Alura para aprimorar suas habilidades técnicas. [![Alura](https://img.shields.io/badge/Alura-Visit%20Website-008BAA)](https://www.alura.com.br/)
 
 
 Sinta-se à vontade para conhecer mais sobre essas incríveis iniciativas!
