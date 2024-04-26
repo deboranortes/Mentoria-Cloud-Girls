@@ -1,0 +1,43 @@
+<canvas id="myCanvas" width="600" height="400"></canvas>
+
+<script>
+// Configuração inicial
+var canvas = document.getElementById('myCanvas');
+var ctx = canvas.getContext('2d');
+
+// Propriedades da bola
+var x = canvas.width/2;
+var y = canvas.height-30;
+var dx = 2;
+var dy = -2;
+var ballRadius = 10;
+
+// Desenha a bola
+function drawBall() {
+    ctx.beginPath();
+    ctx.arc(x, y, ballRadius, 0, Math.PI*2);
+    ctx.fillStyle = "#0095DD";
+    ctx.fill();
+    ctx.closePath();
+}
+
+// Atualiza a tela do jogo
+function draw() {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    drawBall();
+    x += dx;
+    y += dy;
+
+    // Verifica colisão com as bordas e faz a bola quicar
+    if(x + dx > canvas.width-ballRadius || x + dx < ballRadius) {
+        dx = -dx;
+    }
+    if(y + dy > canvas.height-ballRadius || y + dy < ballRadius) {
+        dy = -dy;
+    }
+}
+
+// Inicia o jogo
+setInterval(draw, 10);
+
+</script>
