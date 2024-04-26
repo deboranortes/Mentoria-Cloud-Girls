@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Mentoria+Cloud+Girls&center=true&width=458&height=80&size=40&color=%23DB4277)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Mentoria+Cloud+Girls&center=true&width=460&height=80&size=38&color=%23DB4277)](https://git.io/typing-svg)
 
 
 
