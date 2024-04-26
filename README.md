@@ -40,9 +40,9 @@ Este repositório também contém alguns arquivos de estudos relacionados às tr
 
 ## Links
 
-Conheça mais sobre a comunidade Cloud Girls e seu impacto na diversidade e inclusão no setor de tecnologia. [![Cloud Girls](https://img.shields.io/badge/Cloud%20Girls-Visit%20Website-e83e8c)](https://cloudgirls.com.br/)
+Conheça mais sobre a comunidade Cloud Girls. [![Cloud Girls](https://img.shields.io/badge/Cloud%20Girls-Visit%20Website-e83e8c)](https://cloudgirls.com.br/)
 
-Explore a variedade de cursos oferecidos pela Alura para aprimorar suas habilidades técnicas. [![Alura](https://img.shields.io/badge/Alura-Visit%20Website-008BAA)](https://www.alura.com.br/)
+Explore a variedade de cursos oferecidos pela Alura. [![Alura](https://img.shields.io/badge/Alura-Visit%20Website-008BAA)](https://www.alura.com.br/)
 
 
 Sinta-se à vontade para conhecer mais sobre essas incríveis iniciativas!
