@@ -31,7 +31,7 @@ Aqui estão alguns projetos que desenvolvi durante a mentoria e que estão dispo
 - [Jogo do Número da Secreto](https://github.com/deboranortes/Jogo-do-numero-secreto)
 - [Portifólio](https://github.com/deboranortes/portifolio)
 - [AluraMidi](https://github.com/deboranortes/aluramidi)
-
+- [Js Consumindo Dados API](https://github.com/deboranortes/js-consumindo-dados-api)
 
 ## Arquivos de Estudos
 
