@@ -32,7 +32,6 @@ Aqui estão alguns projetos que desenvolvi durante a mentoria e que estão dispo
 - [Portifólio](https://github.com/deboranortes/portifolio)
 - [AluraMidi](https://github.com/deboranortes/aluramidi)
 
-
 ## Arquivos de Estudos
 
 Este repositório também contém alguns arquivos de estudos relacionados às trilhas de hard skills e soft skills que estou seguindo durante a mentoria.
